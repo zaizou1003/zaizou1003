@@ -26,8 +26,8 @@ I'm an **AI Engineer** specializing in **Machine Learning**, **Deep Learning**, 
 
 ## 📫 Let's Connect!
 
-- **Email**: [ahmed@example.com](mailto:ahmed@example.com)
-- **LinkedIn**: [linkedin.com/in/ahmed](https://linkedin.com/in/ahmed)
+- **Email**: [ahmedazizbenaissa@gmail.com](mailto:ahmedazizbenaissa@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-aziz-ben-aissa-5b34992a3/](https://www.linkedin.com/in/ahmed-aziz-ben-aissa-5b34992a3/)
 - **Website**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
