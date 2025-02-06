@@ -16,18 +16,24 @@ I'm an **AI Engineer** specializing in **Machine Learning**, **Deep Learning**, 
 
 ## 📂 Featured Projects
 
-- [**Animal and Plant Recognition App**](https://github.com/yourusername/animal-plant-recognition)  
+- [**Animal and Plant Recognition App**](https://github.com/zaizou1003/Animal_and_Plant-Recognition)  
   _A web-based application to identify wildlife species using image classification._
 
-- [**Weapon Detection System**](https://github.com/yourusername/weapon-detection-system)  
+- [**Weapon Detection System**](https://github.com/zaizou1003/knife_Gun_Detection)  
   _A real-time object detection model to enhance public safety by identifying weapons in surveillance footage._
+
+- [**Ecommerce Dashboard**](https://github.com/zaizou1003/Ecommerce_Dashboard)  
+  _An interactive dashboard providing insights into e-commerce metrics, including sales, customer trends, and product performance._
+
+- [**Credit Card Customer Report**](https://github.com/zaizou1003/Credit_Card_Customer_Report)  
+  _A detailed analysis of credit card customer behavior, highlighting retention strategies and data-driven insights._
 
 ---
 
 ## 📫 Let's Connect!
 
 - **Email**: [ahmedazizbenaissa@gmail.com](mailto:ahmedazizbenaissa@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/ahmed-aziz-ben-aissa-5b34992a3/](https://www.linkedin.com/in/ahmed-aziz-ben-aissa-5b34992a3/)
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-aziz-ben-aissa-5b34992a3/](https://www.linkedin.com/in/ahmed-ben-aissa-5b34992a3/)
 - **Website**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
